@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-An interactive tic-tac-toe game.
+An interactive tic-tac-toe game. [Now Deployement](https://origin-react-starter-yasqlsnquw.now.sh/).
 
 ## Setup
 
